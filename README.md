@@ -12,10 +12,11 @@
 
 ------------
 ### Tecnologias:
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px">
+</p>
 
 ----------------
 | Cursos | Certificados |
@@ -23,10 +24,11 @@
 |Príncipios do Git e Github |[Certificado](https://hermes.dio.me/certificates/8UJY06TW.pdf)
 |Príncipios do Git e Github |[Certificado](https://hermes.dio.me/certificates/8UJY06TW.pdf)
 
------
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+------------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandretfro&show_icons=true&theme=radical)
+
 <!--
 **alexandretfro/alexandretfro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,3 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs
