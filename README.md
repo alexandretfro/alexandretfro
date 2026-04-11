@@ -1,7 +1,8 @@
 
-<h2 align="center">
+<h3 align="center">
   Sejam Bem-Vindos ao meu GitHub...👋
-</h2>
+</h3>
+
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 <div align="center">
 
