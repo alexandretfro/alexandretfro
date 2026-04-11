@@ -34,8 +34,5 @@
 |Príncipios do Git e Github |[Certificado](https://hermes.dio.me/certificates/8UJY06TW.pdf)
 
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
-
 
 [def]: https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs
