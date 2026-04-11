@@ -1,4 +1,6 @@
-<center><h2>Sejam Bem-Vindos ao meu GitHub...👋</h2></center>
+
+Sejam Bem-Vindos ao meu GitHub...👋
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 <div align="center">
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWd3eGtwNGM0MXRvdW53b2g4eXJ6cnZ3Ynphc3BscTllNHV3MGRuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
