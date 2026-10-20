@@ -51,6 +51,17 @@
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
+## 📊 Análise de Dados
+
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
 ## 🚀 Projetos em destaque
 
 <div align="center">
