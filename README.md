@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 💼 Sobre mim
 
@@ -19,7 +19,7 @@
 - 📊 Interesse em **análise de dados**, **dashboards**, **automação** e **soluções geoespaciais (GIS)**
 - 🌱 Sempre aprendendo e buscando construir soluções simples, úteis e bem feitas
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 💻 Front End
 
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 📊 Análise de Dados
 
@@ -60,13 +60,13 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 🚀 Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/alexandretfro/site_completo_html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandretfro&repo=site_completo_html&theme=github_dark&hide_border=true"/></a>
-  <a href="https://github.com/alexandretfro/Pagina_Web_Desafio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandretfro&repo=Pagina_Web_Desafio&theme=github_dark&hide_border=true"/></a>
+  <a href="https://github.com/alexandretfro/site-completo-html"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandretfro&repo=site-completo-html&theme=github_dark&hide_border=true"/></a>
+  <a href="https://github.com/alexandretfro/desafio-pagina-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandretfro&repo=desafio-pagina-web&theme=github_dark&hide_border=true"/></a>
   <a href="https://github.com/alexandretfro/DesafioWikipedia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandretfro&repo=DesafioWikipedia&theme=github_dark&hide_border=true"/></a>
   <a href="https://github.com/alexandretfro/HTML_CSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandretfro&repo=HTML_CSS&theme=github_dark&hide_border=true"/></a>
   <a href="https://github.com/alexandretfro/resolvendo-codigos-py-copilot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandretfro&repo=resolvendo-codigos-py-copilot&theme=github_dark&hide_border=true"/></a>
@@ -74,13 +74,13 @@
 
 | Projeto | Descrição | Tecnologia |
 | --- | --- | --- |
-| [site_completo_html](https://github.com/alexandretfro/site_completo_html) | Site completo desenvolvido do zero | HTML · CSS |
-| [Pagina_Web_Desafio](https://github.com/alexandretfro/Pagina_Web_Desafio) | Página web criada como desafio prático | HTML · CSS |
+| [site-completo-html](https://github.com/alexandretfro/site-completo-html) | Site completo desenvolvido do zero | HTML · CSS |
+| [desafio-pagina-web](https://github.com/alexandretfro/desafio-pagina-web) · [🌐 ver site](https://alexandretfro.github.io/desafio-pagina-web/) | Página web criada como desafio prático | HTML · CSS |
 | [DesafioWikipedia](https://github.com/alexandretfro/DesafioWikipedia) | Recriação de página no estilo Wikipédia | HTML · CSS |
 | [HTML_CSS](https://github.com/alexandretfro/HTML_CSS) | Exercícios e estudos de HTML e CSS | HTML · CSS |
 | [resolvendo-codigos-py-copilot](https://github.com/alexandretfro/resolvendo-codigos-py-copilot) | Resolução de códigos em Python com GitHub Copilot | Python |
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 🎓 Certificados
 
@@ -88,7 +88,7 @@
 | --- | --- |
 | Princípios do Git e GitHub (DIO) | [Ver certificado](https://hermes.dio.me/certificates/8UJY06TW.pdf) |
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 📈 Estatísticas
 
@@ -97,7 +97,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandretfro&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+---
 
 ## 📫 Contato
 
